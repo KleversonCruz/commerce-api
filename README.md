@@ -11,7 +11,7 @@ Hello folks. This is a basic e-commerce API for educational purposes. Feel free 
 * ✔️ JWT auth.
 * ✔️ Pagination support.
 * ✔️ Swagger docs.
-* ✔️ Written in NET.5 and EF Core 5.
+* ✔️ Written in NET.9
 
 ### Installation
 
